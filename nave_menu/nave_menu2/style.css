@@ -1,0 +1,44 @@
+#div1{
+
+
+	background-color: black;
+	height: 200px;
+	margin: 0 auto;
+}
+
+
+#div1 ul li a {
+
+
+	color: red;
+	text-decoration:none;
+	cursor: progress;
+
+
+}
+
+#div1 ul li {
+
+
+	float:left;
+	list-style-type:none;
+	margin: 40px;
+	font-size: 40px;
+
+	
+}
+#div1 ul li a:hover {
+
+
+	text-decoration:underline; 
+	 background-color:white;
+
+
+}
+body {
+ background-image: url("image1.jpg");
+ background-color: #cccccc;
+ background-position: center;
+  background-size: cover; 
+}
+

@@ -1,0 +1,35 @@
+#div1{
+
+     	background-color: pink;
+
+     	height: 200px;
+
+     	
+     	margin:0 auto;
+
+
+}
+
+#div1 ul li{
+
+	list-style-type: none;
+
+   float: left;
+   margin: 20px;
+
+
+}
+
+#div1 ul li a{
+
+
+	text-decoration: none;
+	font-size: 25px;
+	color: black;
+	cursor: pointer;
+	
+}
+#div1 ul li a:hover{
+
+		text-decoration:underline; 
+	}
